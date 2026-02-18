@@ -1,0 +1,7 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 64 48 -80 -48
+TEXT 49 34 VLeft 1 LED PCB
+PIN 16 48 BOTTOM 8
+PINATTR PinName IN
+PINATTR SpiceOrder 1

@@ -1,0 +1,9 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 64 63 -64 -17
+PIN 0 -16 TOP 8
+PINATTR PinName Vin
+PINATTR SpiceOrder 1
+PIN 0 64 BOTTOM 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 2

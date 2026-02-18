@@ -1,0 +1,7 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 48 80 -48 -32
+TEXT -39 18 Left 1 Serial DB9
+PIN 0 80 BOTTOM 8
+PINATTR PinName Vin
+PINATTR SpiceOrder 1

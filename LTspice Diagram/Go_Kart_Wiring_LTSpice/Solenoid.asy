@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 80 0 -16 -32
+RECTANGLE Normal 160 144 -96 0
+RECTANGLE Normal 82 144 -16 176
+TEXT 33 3 Top 2 Stud Coil Terminals
+TEXT 36 138 Bottom 2 Stud Load Terminals
+PIN -16 -32 TOP 8
+PINATTR PinName A2
+PINATTR SpiceOrder 1
+PIN 80 -32 TOP 8
+PINATTR PinName A1
+PINATTR SpiceOrder 2
+PIN -16 176 BOTTOM 8
+PINATTR PinName A2
+PINATTR SpiceOrder 3
+PIN 80 176 BOTTOM 8
+PINATTR PinName A1
+PINATTR SpiceOrder 4
