@@ -1,0 +1,10 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -96 -80 144 32
+TEXT -34 -51 Left 2 Converter
+PIN -32 32 BOTTOM 8
+PINATTR PinName Port 1
+PINATTR SpiceOrder 1
+PIN 64 32 BOTTOM 8
+PINATTR PinName Port 2
+PINATTR SpiceOrder 2
